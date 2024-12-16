@@ -42,7 +42,9 @@
 .task-list-item {
   list-style: none;
 }
-.task-text,.task-checkbox,.task-btn{
+.task-text,
+.task-checkbox,
+.task-btn{
   outline: none;
 }
 .task-btn {
