@@ -149,3 +149,8 @@
 .task-list .task-list-item.edit-mode .task-label {
   display: none;
 }
+
+.main-header,
+.add-task-header {
+	display: none;
+}
